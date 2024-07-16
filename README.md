@@ -1,10 +1,6 @@
 <h1 align="center">
-  ForTech <img width="25px" src="https://raw.githubusercontent.com/eoLucasS/portfolio/main/assets/img/icon.svg"/>
+  ForTechJobs
 </h1>
-
- <p align="center">
-  <img alt="Github Language Count" src="https://img.shields.io/github/languages/count/EvanderInacio/Portfolio?color=00FFFB">
-</p>
 
 <br>
 
@@ -16,20 +12,20 @@
 
 ## 📝 Descrição 
 
-Projeto feito em faculdade, cada grupo teve que fazer uma empresa. Para mais detalhes, clicar no botão abaixo.
+Projeto feito em faculdade com o objetivo de criar uma empresa ficticea e um produto condizente que represente uma solução tangível que contribua com as [17 Metas até 2030](https://brasil.un.org/pt-br/sdgs) da ONU. O tema escolhido foi "Trabalho decente e crescimento econômico" e "Redução das desigualdades".
  
 <a href="https://drive.google.com/file/d/1vTPbVhIGbE3b7sOLe5hRzvFsylipH6u4/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"></a>
 
 - Website: [https://fortech-jobs.vercel.app](https://fortech-jobs.vercel.app)
-- Documentação: <a href="https://docs.google.com/document/d/19B4J3XR61bs7SQPU2C9DYHOEXzRq0tSIc4N-eQnkERM/edit?usp=sharing" target="_blank"> Clique aqui </a>  
+- Documentação: <a href="https://docs.google.com/document/d/1hUIp3p3grt_vvF26tpLqrfuk6tvvpqc66KJXw8AnTjs/edit?usp=sharing" target="_blank"> Clique aqui </a>  
 
 ## 🚀 Linguagens
 
 Esse projeto foi desenvolvido com as seguintes Linguagens:
 
-  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
-  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/eoLucasS" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a>
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 
 ## 📚 Bibliotecas e Ferramentas
 
